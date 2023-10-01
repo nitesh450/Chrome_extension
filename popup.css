@@ -1,0 +1,26 @@
+/* popup.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  button {
+    background-color: #0073e6;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #005bbd;
+  }
+  
+  button:active {
+    background-color: #004aa0;
+  }
+  
