@@ -1,2 +1,2 @@
 # Chrome_extension
-made a chrome extension using html , css , javascript
+made a chrome extension using html , css , javascript and json 
